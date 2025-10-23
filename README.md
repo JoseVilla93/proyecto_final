@@ -1,11 +1,11 @@
 # 📈 Analisis de Activos Financieros  
-**Autor:** Jose Villa  
-**Curso:** Complementaria 2 — Universidad de Medellín  
+**Jose Villa**
+**Complementaria 2 — Universidad de Medellín** 
 
 ---
 
 ## 🧩 Descripción del proyecto  
-Aplicación desarrollada en **Python + Streamlit** que permite analizar activos financieros utilizando datos reales de Yahoo Finance.  
+Aplicación desarrollada en **Python y Streamlit** que permite analizar activos financieros utilizando datos reales de Yahoo Finance.  
 El sistema genera indicadores técnicos, gráficos estáticos, comparaciones entre activos y un informe PDF con conclusiones automáticas.  
 
 ---
@@ -25,5 +25,5 @@ El sistema genera indicadores técnicos, gráficos estáticos, comparaciones ent
 2. Instalar las dependencias:  
    ```bash
    pip install -r requirements.txt
-
-streamlit run app.py
+3. Correr APP
+   streamlit run app.py
